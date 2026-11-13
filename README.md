@@ -7,6 +7,12 @@
 Хранилище профилей вынесено в отдельный **MCP-сервер** — бот не читает и не пишет
 JSON-файлы напрямую.
 
+<img width="418" height="302" alt="image" src="https://github.com/user-attachments/assets/b444c045-0ded-42c8-84e9-391e97db82cf" />
+<img width="420" height="284" alt="image" src="https://github.com/user-attachments/assets/72aa7b7d-b492-47fb-8e41-4cfa14278a5c" />
+<img width="934" height="604" alt="image" src="https://github.com/user-attachments/assets/7279d882-5cb8-41db-87cd-3f0d885d9394" />
+
+
+
 ## Возможности
 
 - **Многодиалоговость** — до 20 диалогов на пользователя, сортировка по дате,
@@ -31,6 +37,8 @@ JSON-файлы напрямую.
 - **Защита интерфейса** — пустые и слишком длинные сообщения, неизвестные
   команды, устаревшие кнопки, сетевые сбои.
 - **Полностью русский интерфейс** и клавиатуры VK.
+
+<img width="901" height="194" alt="image" src="https://github.com/user-attachments/assets/4e7a32b1-6a8d-4614-b08d-7f12abfed83d" />
 
 ## Команды и кнопки
 
